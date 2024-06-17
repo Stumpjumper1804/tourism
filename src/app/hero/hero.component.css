@@ -1,0 +1,10 @@
+.hero-section {
+  background-image: url(../../../public/images/aurora-1185464_1920.jpg);
+  background-size: cover;
+  color: white;
+  padding: 20px;
+
+  h2 {
+    color: aqua;
+  }
+}
