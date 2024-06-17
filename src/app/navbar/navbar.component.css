@@ -1,4 +1,18 @@
 .active {
   font-weight: bold;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
+  color: white !important;
+}
+
+.navbar {
+  position: absolute;
+  left: 16%;
+  top: 50px;
+  background: none !important;
+}
+
+.navbar-brand {
+  /* background-color: lightgreen; */
+  color: deeppink;
+  font-weight: bold;
 }
